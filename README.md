@@ -3,9 +3,10 @@
 
 <p align="center">
     <a href="https://youtube.binpipe.org">
-    <img src="https://img.shields.io/badge/youtube-youtube.binpipe.org-red"
+    <img src="https://img.shields.io/badge/videos-youtube.binpipe.org-red"
          alt="GitHub email">
-    <img src="https://img.shields.io/badge/email-prasanjit%40binpipe.org-blue"
+     <a href="https://www.binpipe.org">   
+    <img src="https://img.shields.io/badge/contact-prasanjit%40binpipe.org-blue"
          alt="GitHub email">
 </p>
       
