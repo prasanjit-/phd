@@ -62,7 +62,7 @@ Current status: In progress as on 23rd April 2022.
 
 ## Contact
 
-Reach out to me via the **[profile addresses](https://github.com/prasanjit-)**.
+Reach out to me via the **[Linkedin](https://www.linkedin.com/in/prasanjit-singh/)**.
 
 ## License
 <p align="left">
