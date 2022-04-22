@@ -28,7 +28,7 @@
 <tr>
 <td>
   
-This repository is a warehouse of my Doctoral journey, conducted between 2019 and 2023, in the Department of Computer Science, Sikkim Professional University, India. I'm writing it in public to stretch ideas about the subject as well as to support and experiment with related ideas and developments in the field.
+This repository is a warehouse of my Doctoral journey, conducted between 2019 and 2023, in the Department of Computer Science, Sikkim Professional University and accredited by University Grants Commission, India. I'm sharing the all the documents and findings in public to stretch ideas about the research subject as well as to support and experiment with related ideas and developments in the field.
 
 Current status: In progress as on 23rd April 2022.
 
