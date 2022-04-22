@@ -1,5 +1,5 @@
 <h2 align="center"> Empirical Evaluation of FinOps Framework for Sustainable Cloud Engineering </h2>
-<h4 align="center"> PhD (Computer Science) Research Respository, Prasanjit Singh</h4>
+<h4 align="center"> Research Respository - PhD (Computer Science), Prasanjit Singh</h4>
 
 <p align="center">
     <a href="https://youtube.binpipe.org">
