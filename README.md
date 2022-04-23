@@ -13,7 +13,7 @@
       
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#abstract">Abstract</a> •
+  <a href="#objectives">Objectives</a> •
   <a href="#defence">Defence</a> •
   <a href="#publications">Publications</a> •
   <a href="#references">References</a> •
@@ -39,7 +39,11 @@ This repository is a warehouse of my Doctoral journey, conducted between 2019 an
 </tr>
 </table>
 
-## Abstract
+## Objectives
+My research interests generally revolve around building & evaluating frameworks to achieve energy and cost efficiency for cloud computing systems. With the modern cloud computing platforms becoming increasingly large-scale and distributed there is a dire need to implement cost-effective and energy efficient systems that would lower carbon footprint for the whole planet. Following this spirit, and the advancements in the areas of Green Cloud Computing and evolution of FinOps practices, I'm pursuing an empirical approach to a sustainable form of distributed computing systems. My approach to addressing systems research challenges is grounded on concrete understanding through practical evaluation of real systems. In summary, the objectives of this researchwork are:
+* To create and analyze FinOps frameworks to achieve energy and cost efficiency for cloud computing systems.
+* To perform a detailed review and concrete knowledge of the practical assessment of real-time FinOps systems.
+* To embed sustainability into daily design, development and operational processes in cloud engineering.
 
 ## Defence
 
