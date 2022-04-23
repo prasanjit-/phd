@@ -5,7 +5,7 @@
     <a href="https://youtube.binpipe.org">
     <img src="https://img.shields.io/badge/videos-youtube.binpipe.org-red"
          alt="GitHub email">
-     <a href="https://www.binpipe.org">   
+     <a href="https://www.linkedin.com/in/prasanjit-singh/">   
     <img src="https://img.shields.io/badge/contact-prasanjit%40binpipe.org-blue"
          alt="GitHub email">
 </p>
