@@ -75,6 +75,6 @@ Reach out to me on **[Linkedin](https://www.linkedin.com/in/prasanjit-singh/)**.
     <img src="https://img.shields.io/badge/License-BSD--3--Clause-lightgrey"
          alt="GitHub email">
     <a href="https://youtube.binpipe.org">  
-    <img src="https://img.shields.io/badge/Copyright%202019-Prasanjit%20Singh-brightgreen"
+    <img src="https://img.shields.io/badge/Copyright%202019-2023-Prasanjit%20Singh-brightgreen"
          alt="GitHub email">
 </p>
