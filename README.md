@@ -3,11 +3,11 @@
 <h4 align="center"> Prasanjit Singh</h4>
 
 <p align="center">
-    <a href="https://youtube.binpipe.org">
-    <img src="https://img.shields.io/badge/videos-youtube.binpipe.org-red"
+    <a href="https://youtube.com/binpipe">
+    <img src="https://img.shields.io/badge/videos-binpipe.youtube-red"
          alt="GitHub email">
      <a href="https://www.linkedin.com/in/prasanjit-singh/">   
-    <img src="https://img.shields.io/badge/contact-prasanjit%40binpipe.org-blue"
+    <img src="https://img.shields.io/badge/contact-prasanjit%40linkedin-blue"
          alt="GitHub email">
 </p>
       
