@@ -31,7 +31,7 @@
   
 This repository is a warehouse of my Doctoral journey, conducted between 2019 and 2023, in the Department of Computer Science, Sikkim Professional University and accredited by University Grants Commission, India. I'm sharing the all the documents and findings in public to stretch ideas about the research subject as well as to support and experiment with related ideas and developments in the field.
 
-**Current status:** *In progress as on 23rd April 2022.*
+**Current status:** *In progress as on 19th August 2023.*
 
 </p>
 
@@ -52,16 +52,14 @@ My research interests generally revolve around building & evaluating frameworks 
 ## Documents
 
 * To be furnished
-* To be furnished
 
 
 ## Publications
 
-* To be furnished
-* To be furnished
+* **[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=sfAz6vIAAAAJ)**
 
 ## References
-* To be furnished
+
 * To be furnished
 
 
