@@ -14,7 +14,6 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#objectives">Objectives</a> •
-  <a href="#defence">Defence</a> •
   <a href="#publications">Publications</a> •
   <a href="#references">References</a> •
   <a href="#contact">Contact</a> •
