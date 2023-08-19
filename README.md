@@ -45,10 +45,64 @@ My research interests generally revolve around building & evaluating frameworks 
 * To perform a detailed review and concrete knowledge of the practical assessment of real-time FinOps systems.
 * To embed sustainability into daily design, development and operational processes in cloud engineering.
 
+
+      +------------------------------------------------------+
+      |        FinOps Framework for Sustainable              |
+      |                Cloud Engineering                     |
+      +------------------------------------------------------+
+                                  |
+                                  v
+      +-------------------------------+-------------------------------+
+      |         Define Cloud Goals    |          Cloud Efficiency      |
+      |                               |                                |
+      | - Identify business objectives| - Optimize resource usage      |
+      | - Set cost targets            | - Ensure efficient scaling     |
+      +-------------------------------+-------------------------------+
+                                  |                                |
+                                  v                                v
+      +-------------------------------+-------------------------------+
+      |     Cost Optimization         |        Resource Management    |
+      |                               |                               |
+      | - Monitor cost patterns       | - Analyze usage patterns      |
+      | - Identify cost anomalies     | - Allocate resources wisely   |
+      +-------------------------------+-------------------------------+
+                                  |                                |
+                                  v                                v
+      +-----------------------+-----------------------+-----------------------+
+      |   Monitor Cloud Usage | Analyze Cost Patterns |    Optimize Costs       |
+      |                       |                       |                         | 
+      | - Real-time monitoring | - Detect cost trends  | - Implement cost-saving|
+      | - Track cost drivers  | - Analyze spending    |   measures              |
+      +-----------------------+-----------------------+-----------------------+
+                                  |                                |
+                                  v                                v
+      +-----------------------+-----------------------+-------------------------+
+      |  Usage Tracking      |   Cost Pattern Analysis| Resource Optimization   |
+      |                       |                       |                         | 
+      | - Monitor user usage | - Identify spending    | - Rightsize resources   |
+      | - Optimize workloads |   patterns             | - Efficient provisioning|
+      +-----------------------+-----------------------+-------------------------+
+                                  |                                |
+                                  v                                v
+      +-----------------------+-----------------------+-----------------------+
+      |  Cost Allocation   |    Budget Planning    |   Continuous Refinement  |
+      |                    |                       |                          |
+      | - Allocate expenses| - Plan budgets        | - Iteratively optimize   |
+      | - Chargeback models| - Forecast expenditures|   cloud operations      |
+      +-----------------------+-----------------------+-----------------------+
+                                  |                                |
+                                  v                                v
+      +------------------------------------------------------+
+      |    Track Progress and Report                        |
+      |                                                     |
+      | - Regularly assess performance                      |
+      | - Generate detailed financial reports               |
+      +------------------------------------------------------+
+
+
 ## Artifacts
 
 * [Research Artifacts](artifacts/)
-
 
 ## Publications
 
